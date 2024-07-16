@@ -103,6 +103,7 @@
   }
 .navbar .logo a{
   font-size:25px;
+  width: 10vw;
 }
   .menu-btn {
     display: block;
@@ -148,7 +149,7 @@
     padding-right: 8px;
   }
   .projects .title{
-  margin-top:150px;
+  margin-top:180px;
     
   }
 
